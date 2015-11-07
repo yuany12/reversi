@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>back.jpg</file>
+        <file>buttons.jpg</file>
+        <file>inp.jpg</file>
+        <file>pureblack.jpg</file>
+        <file>state.jpg</file>
+        <file>baiqi.png</file>
+        <file>baiqihe.png</file>
+        <file>chessboard.png</file>
+        <file>heiqi.png</file>
+        <file>heiqihe.png</file>
+        <file>hezi.png</file>
+        <file>inp.png</file>
+    </qresource>
+</RCC>
